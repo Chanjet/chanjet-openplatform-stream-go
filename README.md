@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chanjet.chanjet-openplatform-stream-go)
+
 畅捷通 Stream Gateway 官方 Go SDK。提供高性能的 Webhook-to-WebSocket 同步桥接客户端及业务分发机制。
 
 ## 安装
